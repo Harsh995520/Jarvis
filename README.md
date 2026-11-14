@@ -36,7 +36,7 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 ```
 
-6. Open http://127.0.0.1:8000 in Chrome or Edge.
+6. Open [http://127.0.0.1:8000](https://jarvis-eyye.onrender.com/) in Chrome or Edge.
 
 ## Deploy on Render
 
